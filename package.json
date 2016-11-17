@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^2.0.0",
+    "lodash": "^4.17.2",
     "node-twitterbot": "^0.2.2",
+    "request": "^2.78.0",
     "twit": "^2.2.5"
   }
 }
