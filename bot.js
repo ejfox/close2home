@@ -70,17 +70,17 @@ var switchDictionary = [
     ,switch: ['Canada', 'Mexico']
   },
   {
-    original: ['US']
-    ,switch: ['China', 'Iran']
-  },
-  {
-    original: ['American']
-    ,switch: ['Chinese', 'Iranian']
-  },
-  {
     original: ['Mosul']
     ,switch: ['Toronto', 'Mexico City']
   },
+  {
+    original: ['Trump']
+    ,switch: ['Obama', 'Clinton']
+  }
+  {
+    original: ["Trump's"]
+    ,switch: ["Obama's", "Clinton's"]
+  }
 ]
 
 function chooseRandomHeadline() {
